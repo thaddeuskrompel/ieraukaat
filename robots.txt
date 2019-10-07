@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hahpiuboom.whitecloudsbook.com/sitemap.xml
